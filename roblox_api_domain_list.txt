@@ -1,6 +1,6 @@
-https://www.roblox.com
-https://api.roblox.com 
-https://abtesting.roblox.com
+www.roblox.com
+api.roblox.com 
+abtesting.roblox.com
 https://accountinformation.roblox.com
 https://accountsettings.roblox.com
 https://adconfiguration.roblox.com
